@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá, eu sou Gabriel Romano </h1>
-<h3 align = "center">Desenvolvedor Java, Estudante de Ciência da Computação, Coffee lover, Curioso .</h3>
+<h3 align = "center">Desenvolvedor Java, Estudante de Ciência da Computação, Coffee lover, Curioso e Músico .</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
 
