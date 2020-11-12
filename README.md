@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
 
-- 💻 Atualmente trabalho na [codeBuddy](https://www.codebuddy.com.br/)
+- 💻 Atualmente trabalho na [codeBuddy](https://www.codebuddy.com.br/);
 
 - 👨‍💻 Estou estudando **Java Web**;
 
