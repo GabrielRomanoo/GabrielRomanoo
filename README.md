@@ -3,9 +3,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
 
-- Eu atualmente trabalho na [codeBuddy](https://www.codebuddy.com.br/)
+- 💻 Atualmente trabalho na [codeBuddy](https://www.codebuddy.com.br/)
 
-- Estou estudando **Java Web**
+- 👨‍💻 Estou estudando **Java Web**;
 
 <p align="left">
  <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20" /> 
