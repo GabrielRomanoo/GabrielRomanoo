@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align = "center"> Olá, eu sou Gabriel Romano </h1>
+<h3 align = "center">Desenvolvedor Java, Estudante de Ciência da Computação, Coffee lover, Curioso .</h3>
 
-<!--
-**GabrielRomanoo/GabrielRomanoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
 
-Here are some ideas to get you started:
+- Eu atualmente trabalho na [codeBuddy](https://www.codebuddy.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando **Java Web**
+
+<p align="left">
+ <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20" /> 
+ <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="20" height="20" /> 
+ <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20" /> 
+ <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20" />
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" />
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo&show_icons=true" alt="gabrielromanoo" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomanoo" alt="dexternatan" />
+</p>
+
+<h3 align = "center">Entre em contato comigo pelo Linkedin.</h3>
+<p align="center">
+ <a href="https://www.linkedin.com/in/gabriel-romano-82a579194//" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gabriel-romano-82a579194/" height="20" width="20" /></a>
+</p>
