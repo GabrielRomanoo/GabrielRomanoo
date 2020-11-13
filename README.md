@@ -1,7 +1,8 @@
 <h1 align = "center"> Olá, eu sou Gabriel Romano </h1>
 <h3 align = "center">Desenvolvedor Java, Estudante de Ciência da Computação, Coffee lover, Curioso e Músico .</h3>
+<h1 align = "center">  </h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="gabrielromanoo" /></p>
 
 - 💻 Atualmente trabalho na [codeBuddy](https://www.codebuddy.com.br/);
 
@@ -22,10 +23,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo&show_icons=true" alt="gabrielromanoo" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomanoo" alt="dexternatan" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomanoo&layout=compact" />
+ </p>
+</a>
 
+<h1 align = "center">  </h1>
 <h3 align = "center">Entre em contato comigo pelo Linkedin.</h3>
 <p align="center">
  <a href="https://www.linkedin.com/in/gabriel-romano-82a579194//" target="blank">
