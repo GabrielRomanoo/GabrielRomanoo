@@ -8,8 +8,19 @@
 
 - 👨‍💻 Estou estudando **Java Web**
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=GabrielRomanoo" alt="gabrielromanoo" /></p>
 
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo&show_icons=true" alt="gabrielromanoo" />
+</p>
+
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomanoo&layout=compact" />
+</p>
+
+*NOTA: As principais linguagens não indicam meu nível de habilidade ou algo parecido, é uma métrica de quais tecnologias eu tenho mais código no github, é um novo recurso do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
+
+<p align="center"> 
  <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20" /> 
  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="20" height="20" /> 
  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20" /> 
@@ -20,17 +31,6 @@
  <img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="20" height="20" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/1200px-Eclipse-SVG.svg.png" alt="eclipse" width="20" height="20" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo&show_icons=true" alt="gabrielromanoo" />
-</p>
-
-<p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomanoo&layout=compact" />
- </p>
-
-
-*NOTA: As principais linguagens não indicam meu nível de habilidade ou algo parecido, é uma métrica de quais tecnologias eu tenho mais código no github, é um novo recurso do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
-
 
 <h1 align = "center">  </h1>
 <h3 align = "center">Entre em contato comigo pelo Linkedin.</h3>
