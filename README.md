@@ -24,11 +24,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo&show_icons=true" alt="gabrielromanoo" />
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomanoo&layout=compact" />
  </p>
-</a>
+
 
 *NOTA: As principais linguagens não indicam meu nível de habilidade ou algo parecido, é uma métrica de quais tecnologias eu tenho mais código no github, é um novo recurso do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
 
