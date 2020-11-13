@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=GabrielRomanoo" alt="gabrielromanoo" /></p>
 
-- 💻 Atualmente trabalho na [codeBuddy](https://www.codebuddy.com.br/)
+- 💻 Atualmente trabalho como estagiário na [codeBuddy](https://www.codebuddy.com.br/)
 
 - 👨‍💻 Estou estudando **Java Web**
 
