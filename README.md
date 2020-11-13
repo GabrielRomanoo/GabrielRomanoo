@@ -8,8 +8,6 @@
 
 - 👨‍💻 Estou estudando **Java Web**
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=GabrielRomanoo" alt="gabrielromanoo" /></p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo&show_icons=true" alt="gabrielromanoo" />
 </p>
