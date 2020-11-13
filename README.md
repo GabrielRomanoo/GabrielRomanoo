@@ -1,14 +1,15 @@
 <h1 align = "center"> Olá, eu sou Gabriel Romano </h1>
 <h3 align = "center">Desenvolvedor Java, Estudante de Ciência da Computação, Coffee lover, Curioso e Músico .</h3>
+
 <h1 align = "center">  </h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=GabrielRomanoo" alt="gabrielromanoo" /></p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="gabrielromanoo" /></p>
+- 💻 Atualmente trabalho na [codeBuddy](https://www.codebuddy.com.br/)
 
-- 💻 Atualmente trabalho na [codeBuddy](https://www.codebuddy.com.br/);
+- 👨‍💻 Estou estudando **Java Web**
 
-- 👨‍💻 Estou estudando **Java Web**;
 
-<p align="left">
+<p align="center">
  <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20" /> 
  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="20" height="20" /> 
  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20" /> 
@@ -28,6 +29,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomanoo&layout=compact" />
  </p>
 </a>
+
+*NOTA: As principais linguagens não indicam meu nível de habilidade ou algo parecido, é uma métrica de quais tecnologias eu tenho mais código no github, é um novo recurso do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
+
 
 <h1 align = "center">  </h1>
 <h3 align = "center">Entre em contato comigo pelo Linkedin.</h3>
