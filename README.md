@@ -2,7 +2,8 @@
 <h3 align = "center">Desenvolvedor Java, Estudante de Ciência da Computação, Coffee lover, Curioso e Músico .</h3>
 
 <h1 align = "center">  </h1>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=GabrielRomanoo" alt="gabrielromanoo" /></p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=GabrielRomanoo" alt="gabrielromanoo" /></p>
 
 - 💻 Atualmente trabalho na [codeBuddy](https://www.codebuddy.com.br/)
 
