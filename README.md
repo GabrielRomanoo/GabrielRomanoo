@@ -9,9 +9,6 @@
 
 - 👨‍💻 Estou estudando **Java Web**
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo&show_icons=true" alt="gabrielromanoo" />
-</p>
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomanoo&layout=compact" />
