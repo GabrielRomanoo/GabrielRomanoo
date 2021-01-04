@@ -22,14 +22,14 @@
 *NOTA: As principais linguagens acima não indicam meu nível de habilidade ou algo parecido. É uma métrica de quais tecnologias eu tenho mais código no github. Ela é um novo recurso do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
 
 <p align="center"> 
- <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20" /> 
- <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="20" height="20" /> 
- <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="20" height="20" /> 
- <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20" />
- <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20" />
- <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20" />
- <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20" />
- <img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="20" height="20" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20" /> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20" /> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="20" height="20" /> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="20" height="20" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="20" height="20" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="20" height="20" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="20" height="20" />
+ <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.a9f12e2a30.svg" alt="sql" width="20" height="20" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/1200px-Eclipse-SVG.svg.png" alt="eclipse" width="20" height="20" />
 </p>
 
