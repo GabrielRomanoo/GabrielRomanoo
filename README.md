@@ -5,9 +5,9 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=GabrielRomanoo" alt="gabrielromanoo" /></p>
 
-- 💻 Atualmente procuro um estágio como Desenvolvedor
+- 💻 Atualmente procuro um estágio como **Desenvolvedor**
 
-- 👨‍💻 Estou estudando **Java Web**
+- 👨‍💻 Estou estudando o **Framework Spring** para **Java Web**
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo"/>
