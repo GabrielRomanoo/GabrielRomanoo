@@ -7,7 +7,7 @@
 
 - 💻 Atualmente procuro um estágio como **Desenvolvedor**
 
-- 👨‍💻 Estou estudando o **Framework Spring** para **Java Web**
+- 👨‍💻 Estou estudando o **Framework Spring** para **Java Web**, e **SQL Server**.
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo"/>
