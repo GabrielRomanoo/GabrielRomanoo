@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=GabrielRomanoo" alt="gabrielromanoo" /></p>
 
-- 💻 Atualmente procuro um estágio como **Desenvolvedor**
+- 💻 Atualmente procuro um estágio ou emprego como **Desenvolvedor**
 
 - 👨‍💻 Estou estudando o **Framework Spring** para **Java Web**, e **SQL Server**.
 
