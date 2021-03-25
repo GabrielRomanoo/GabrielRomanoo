@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá, eu sou Gabriel Romano <img src="wave.gif" alt="Wave Emoji"  width="22.5px" /> </h1> 
-<h3 align = "center">Desenvolvedor Java, Estudante de Ciência da Computação, Coffee lover, Curioso e Músico.</h3>
+<h3 align = "center">Desenvolvedor Java, Estudante de Ciência da Computação, Coffee lover, Curioso e Músico</h3>
 
 <h1 align = "center">  </h1>
 
@@ -7,7 +7,7 @@
 
 - 💻 Atualmente procuro um estágio ou emprego como **Desenvolvedor**
 
-- 👨‍💻 Estou estudando o **Framework Spring** para **Java Web**, e **SQL Server**.
+- 👨‍💻 Estou estudando o **Arquitetura e Design de Projetos Java**
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GabrielRomanoo&title_color=5679f7&icon_color=5679f7&text_color=000000&bg_color=DCDCDC&show_icons=true&include_all_commits=true" />
