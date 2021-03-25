@@ -10,7 +10,7 @@
 - 👨‍💻 Estou estudando o **Framework Spring** para **Java Web**, e **SQL Server**.
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GabrielRomanoo&show_icons=true&include_all_commits=true&theme=default" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GabrielRomanoo&title_color=56A1F7&icon_color=56A1F7&text_color=8B949E&bg_color=0D1117&show_icons=true&include_all_commits=true" />
 </p>
 
 <p align="center"> 
