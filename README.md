@@ -10,11 +10,11 @@
 - 👨‍💻 Estou estudando o **Arquitetura e Design de Projetos Java**
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo&show_icons=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=0d1117" />
 </p>
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomanoo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=0d1117&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRomanoo&show_icons=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=0d1117&layout=compact" />
 </p>
 
 *NOTA: As principais linguagens acima não indicam meu nível de habilidade ou algo parecido. É uma métrica de quais tecnologias eu tenho mais código no github. Ela é um novo recurso do [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
