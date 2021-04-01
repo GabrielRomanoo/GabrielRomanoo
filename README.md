@@ -33,7 +33,7 @@
  <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="spring" width="20" height="20" />
 </p>
 
-<h1 align = "center">  </h1>
+<h1 align = "center"></h1>
 
 <h3 align = "center">Entre em contato comigo</h3>
 
