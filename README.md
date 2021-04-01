@@ -7,7 +7,7 @@
 
 - 💻 Atualmente procuro um estágio ou emprego como **Desenvolvedor**
 
-- 👨‍💻 Estou estudando o **Arquitetura e Design de Projetos Java**
+- 👨‍💻 Estou estudando **Arquitetura e Design de Projetos Java**, mais especificamente o **Design Patterns**
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=22272e" />
