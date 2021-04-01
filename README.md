@@ -2,13 +2,15 @@
 
 <h3 align = "center">Desenvolvedor Java, Estudante de Ciência da Computação, Coffee lover, Curioso e Músico</h3>
 
-<h1 align = "center">  </h1>
+<h1 align = "center"></h1>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=GabrielRomanoo" alt="gabrielromanoo" /></p>
 
 - 💻 Atualmente procuro um estágio ou emprego como **Desenvolvedor**
 
 - 👨‍💻 Estou estudando **Arquitetura e Design de Projetos Java**, mais especificamente o **Design Patterns**
+
+<h1 align = "center"></h1>
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRomanoo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58aa6ff&icon_color=1f6feb&text_color=c3d1d9&bg_color=22272e" />
