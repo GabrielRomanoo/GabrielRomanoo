@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=GabrielRomanoo" alt="gabrielromanoo" /></p>
 
-- 💻 Atualmente procuro um estágio ou emprego como **Desenvolvedor**
+- 💻 Atualmente estagiando como **Desenvolvedor** na **ModalGR**
 
 - 👨‍💻 Estou estudando **Arquitetura e Design de Projetos Java**, mais especificamente o **Design Patterns**
 
