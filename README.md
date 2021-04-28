@@ -40,8 +40,6 @@
 <p align="center">
    <a href="https://www.linkedin.com/in/gabriel-romano-82a579194//" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gabriel-romano-82a579194/" height="20" width="20" /></a>
-   <a href="mailto:gabriel.romano.3194@hotmail.com" target="blank">
-  <img align="center" src="http://cdn.onlinewebfonts.com/svg/img_435977.png" alt="email" height="20" width="20" /></a>
 </p>
 
 <h1 align = "center"></h1>
