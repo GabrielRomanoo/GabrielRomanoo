@@ -1,6 +1,6 @@
 <h1 align = "center"> Olá, eu sou Gabriel Romano <img src="wave.gif" alt="Wave Emoji"  width="22.5px" /> </h1> 
 
-<h3 align = "center">Desenvolvedor Java, Formado de Ciência da Computação, Curioso e Músico</h3>
+<h3 align = "center">Desenvolvedor Java, Formado em Ciência da Computação, Curioso e Músico</h3>
 
 <h1 align = "center"></h1>
 
