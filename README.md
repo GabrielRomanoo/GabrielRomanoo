@@ -8,7 +8,7 @@
 
 - 💻 Trabalho como **Desenvolvedor Java Junior** na **ModalGR**
 
-- 👨‍💻 Estou estudando **Arquitetura e Design de Projetos Java**, mais especificamente o **Design Patterns**
+- 👨‍💻 Estou estudando **Arquitetura e Design de Projetos Java**
 
 - <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="spring" width="21" height="20" /> Participei do desenvolvimento backend do [Restaurante Escola](https://github.com/Restaurante-Escola) durante minha graduação.
 
