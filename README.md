@@ -40,7 +40,7 @@
 <h3 align = "center">Entre em contato comigo</h3>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/gabriel-romano-82a579194//" target="blank">
+   <a href="https://www.linkedin.com/in/gabriel-romano-pereira//" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gabriel-romano-82a579194/" height="20" width="20" /></a>
 </p>
 
