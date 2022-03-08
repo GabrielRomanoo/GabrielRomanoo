@@ -50,7 +50,7 @@
 ### Contato:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-romano-pereira//" rel="nofollow">
+  <a href="https://www.linkedin.com/in/gabriel-romano-pereira/" rel="nofollow">
     <img src="https://img.shields.io/badge/-Gabriel%20Romano-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/gabriel-romano-pereira/" style="max-width:100%;">
   </a>
 </p>
