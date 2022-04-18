@@ -11,7 +11,7 @@
 
 <p align="left" margin-left="10px"> 
 
-- 💻 Trabalho como Analista de Sistemas Junior na ModalGR.
+- 💻 Trabalho como Analista de Sistemas Pleno na ModalGR.
 - 👨‍💻 No momento estou estudando Arquitetura e Design de Projetos Java na Alura.
 - 📘 Participei do desenvolvimento backend do [Restaurante Escola](https://github.com/Restaurante-Escola) durante minha graduação.
 - 🎓 Formado em Ciência da Computação - Unisantos.
