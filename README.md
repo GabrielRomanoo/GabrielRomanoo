@@ -1,7 +1,7 @@
 <img align="right" width="400" height="735" right="0px" src="https://i.imgur.com/t1NicXz.png">
 
 
-<h2 align = "left"> Olá, eu sou o Gabriel Romano <img src="wave.gif" alt="Wave Emoji"  width="22.5px" /> </h2> 
+<h2 align = "left"> Olá, eu sou o Gabriel Romano 👋 </h2> 
 
 ### Desenvolvedor Java, Curioso e Músico 🎸
 
