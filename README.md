@@ -1,6 +1,3 @@
-<img align="right" width="400" height="735" right="0px" src="https://i.imgur.com/t1NicXz.png">
-
-
 <h2 align = "left"> Olá, eu sou o Gabriel Romano 👋 </h2> 
 
 ### Desenvolvedor Java, Curioso e Músico 🎸
@@ -21,13 +18,13 @@
 
 ### Skills:
 
-<p align="left" margin-left="10px">
+<p align="left" margin-left="30px">
   
-- 🧩 Minha Stack: <strong> Full Stack Java, BackEnd, GitFlow, API Rest, SQL, POO, HTML e CSS.</strong> <br>
+- 🧩 Minha Stack: <strong> Full Stack Java, BackEnd, Spring, API Rest, SQL, Kafka, Git, HTML e CSS.</strong> <br>
 - ⚙ Conhecimento em Tecnologias como: <strong> Maven, JUnit, Bootstrap, JWT, entre outras.</strong> <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong> e <strong>SQL Server</strong>.<br>
-- 🛠 Conhecimento em Framework: <strong> Spring Framework, Spring Boot, Spring Data, Spring MVC, Spring Security, JavaFX, JSP, JSF, Hibernate, Selenium.</strong> <br>
-- 🧩 Utilização de boas práticas: <strong>Clean Code, Design Patterns, SOLID, TDD, BDD, MVC, entre outras.</strong>
+- 🛠 Conhecimento em Framework: <strong> Spring Framework, Spring Boot, Spring Data, Spring MVC, Spring Security, JavaFX, JSP, JSF, Hibernate, Selenium, Kafka, Mockito, JPA, entre outros.</strong> <br>
+- 🧩 Utilização de boas práticas: <strong>Clean Code, Design Patterns, SOLID, TDD, BDD, MVC, Injeção de dependencia, Autenticação JWT ,POO, Code Review, entre outras.</strong>
 </p>
 
 <br/>
