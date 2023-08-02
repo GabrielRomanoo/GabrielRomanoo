@@ -8,7 +8,7 @@
 
 <p align="left" margin-left="10px"> 
 
-- 💻 Trabalho como Analista de Sistemas Pleno na ModalGR.
+- 💻 Trabalho comoAnalista Pleno de Desenvolvimento de Software na Dimensa.
 - 👨‍💻 No momento estou estudando a formação de Engenharia de Software na Alura.
 - 📘 Participei do desenvolvimento backend do [Restaurante Escola](https://github.com/Restaurante-Escola) durante minha graduação.
 - 🎓 Formado em Ciência da Computação - Unisantos.
